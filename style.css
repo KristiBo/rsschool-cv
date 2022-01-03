@@ -1,1 +1,45 @@
-Hi
+* {
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;   
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #d9d3f7;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.course-link {
+    text-decoration: none;
+}
+section {
+    margin-top: 20px;
+    border-top: 2px solid rgb(149, 129, 238);
+    height: 100%;
+}
+.section-title {
+    text-align: center;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #968DA5;
+}
