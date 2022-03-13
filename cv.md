@@ -12,6 +12,7 @@
 ## Skills
 * HTML
 * CSS
+* JavaScript
 * GitHub
 
 ## Code Example
@@ -26,9 +27,13 @@ function multiply(a, b) {
 * __Courses:__
     + [HTML](https://ru.code-basics.com/languages/html)
     + [CSS](https://ru.code-basics.com/languages/css)
+    + [JavaScript](https://ru.code-basics.com/languages/javascript)
 
 ## Experience
-*I have no experience in Frontend development.*
+* [Audio Player](https://kristibo.github.io/school-projects/audio-player/)
+* [Image Gallery](https://kristibo.github.io/school-projects/image-galery/)
+* [Memory Game](https://kristibo.github.io/school-projects/memory-game/)
+* [Website](https://kristibo.github.io/school-projects/portfolio/)
 
 ## Languages
 * Russian - Native
